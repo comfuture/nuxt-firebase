@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-firebase",
+  "version": "1.0.0",
+  "description": "universal nuxt on firebase functions and firebase hosting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd src && npm run dev",
+    "deploy": "cd functions && npm run deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comfuture/nuxt-firebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comfuture/nuxt-firebase/issues"
+  },
+  "homepage": "https://github.com/comfuture/nuxt-firebase#readme"
+}
