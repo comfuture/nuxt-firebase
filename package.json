@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/comfuture/nuxt-firebase/issues"
   },
-  "homepage": "https://github.com/comfuture/nuxt-firebase#readme"
+  "homepage": "https://github.com/comfuture/nuxt-firebase#readme",
+  "devDependencies": {
+    "firebase-tools": "^9.19.0"
+  }
 }
