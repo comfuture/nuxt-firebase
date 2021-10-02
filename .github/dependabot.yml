@@ -1,0 +1,28 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: '/src'
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 5
+  reviewers:
+  - comfuture
+  assignees:
+  - comfuture
+  commit-message:
+    prefix: fix
+    prefix-development: chore
+    include: scope
+- package-ecosystem: npm
+  directory: '/functions'
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 5
+  reviewers:
+  - comfuture
+  assignees:
+  - comfuture
+  commit-message:
+    prefix: fix
+    prefix-development: chore
+    include: scope
