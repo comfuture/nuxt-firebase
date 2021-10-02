@@ -88,3 +88,5 @@ functions/nuxt\.config\.js
 functions/nuxt/
 
 public/
+
+.firebaserc
