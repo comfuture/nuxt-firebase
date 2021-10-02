@@ -5,7 +5,7 @@ firebase hosting 과 firebase functions 에 배포하는 universal nuxt project
 ## Pre requirements
 - [firebase tools][firebase-tools] 를 설치합니다.
   > npm i -g firebase-tools
-- `.firebaserc.dist` 파일 이름을 `.firebaserc` 로 바꾸고 [파이어베이스 콘솔][[firebase-console]] 에서 firebase 프로젝트를 생성한 project id를 `projects` 항목 아래 적어넣습니다.
+- `.firebaserc.dist` 파일 이름을 `.firebaserc` 로 바꾸고 [파이어베이스 콘솔](firebase-console) 에서 firebase 프로젝트를 생성한 project id를 `projects` 항목 아래 적어넣습니다.
 
   ```json
   {
