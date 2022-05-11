@@ -18,7 +18,7 @@
     "nuxt-start": "^2.15.8"
   },
   "devDependencies": {
-    "firebase-functions-test": "^0.3.3"
+    "firebase-functions-test": "^2.0.2"
   },
   "private": true
 }
