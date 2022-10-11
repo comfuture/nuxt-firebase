@@ -14,7 +14,7 @@
   "dependencies": {
     "firebase-admin": "^10.0.2",
     "firebase-functions": "^3.18.1",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.7",
     "nuxt-start": "^2.15.8"
   },
   "devDependencies": {
