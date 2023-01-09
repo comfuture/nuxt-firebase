@@ -12,8 +12,8 @@
     "node": "8"
   },
   "dependencies": {
-    "firebase-admin": "^10.0.2",
-    "firebase-functions": "^3.18.1",
+    "firebase-admin": "^11.4.1",
+    "firebase-functions": "^3.24.1",
     "minimist": "^1.2.5",
     "nuxt-start": "^2.15.8"
   },
