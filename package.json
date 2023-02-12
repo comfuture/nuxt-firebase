@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/comfuture/nuxt-firebase#readme",
   "devDependencies": {
-    "firebase-tools": "^9.19.0"
+    "firebase-tools": "^11.22.0"
   }
 }
